@@ -1,8 +1,7 @@
-package dynamicProgramming;
+package dynamic_programming;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 
 /**
  * Created by Jun on 11/27/2014.
